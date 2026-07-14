@@ -1,6 +1,5 @@
 # Ignore python environments and messy data states
 venv/
 __pycache__/
-data/
 *.csv
 *.html
